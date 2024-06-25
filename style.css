@@ -488,7 +488,7 @@ blockquote::after{
     }
     .header .header-heading{
       color: orange;
-      font-size: 4.2rem;
+      font-size: 3.5rem;
       font-weight: 700;
       letter-spacing: 0.09em;
       
@@ -502,7 +502,7 @@ blockquote::after{
         padding:0;
     }
     .about .txt-box{
-        padding: 1rem;
+        padding:0;
         /* border: 3px solid black; */
         margin-bottom: 1.2rem;
 
@@ -512,6 +512,8 @@ blockquote::after{
     }
     .about .txt-box .txt-para{
         font-size: 1.5rem;
+        padding:0;
+        margin:0;
     }
     .book-head{
         margin:0;
